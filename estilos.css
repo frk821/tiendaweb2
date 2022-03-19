@@ -1,0 +1,15 @@
+.fondomovil{
+    background-image: url("img/liga6.jpg");
+    background-attachment: fixed;
+    background-position: top;
+    background-size: 1450px;
+    height: 450px;
+}
+
+.fondotienda{
+    background-image: url("img/liga5.jpg");
+}
+
+.fondoindex{
+    background-image: url("img/logo2.jpg");
+}
