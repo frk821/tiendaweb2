@@ -2,14 +2,16 @@
     background-image: url("img/liga6.jpg");
     background-attachment: fixed;
     background-position: top;
-    background-size: 1450px;
+    background-size: 1900px;
     height: 450px;
 }
 
 .fondotienda{
     background-image: url("img/liga5.jpg");
+    background-size: 3500px;
 }
 
 .fondoindex{
-    background-image: url("img/logo2.jpg");
+    background-image: url("img/fondo.jpg");
+    background-size: 1900px;
 }
